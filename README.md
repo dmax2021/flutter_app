@@ -19,18 +19,14 @@ a apróximação de trechos mais críticos serão préviamente notificados e est
 poderá reforçar a vigilância quanto aos critérios definidos pela OMS (Organização Mundial de Saúde).
 
 # QUAIS OS COMPONENTES DO APP
-Painel de login e senha
+- Painel de login e senha
+- Painel de cadastro de informações
+- Painel de mapas
 
-Painel de cadastro de informações
+## REPOSITORIO DO APP
+O APP está disponível no seguinte repositório:
+https://github.com/dmax2021/flutter_app.git
 
-Painel de mapas
-
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## AJUDA
+Para maiores informações por favor entrar em contato através do endereço de correio eletrônico:
+edsondinhomais@gmail.com
