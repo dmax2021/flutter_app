@@ -20,8 +20,11 @@ poderá reforçar a vigilância quanto aos critérios definidos pela OMS (Organi
 
 # QUAIS OS COMPONENTES DO APP
 Painel de login e senha
-Painel de cadastro de informações 
-Painel de mapas 
+
+Painel de cadastro de informações
+
+Painel de mapas
+
 
 A few resources to get you started if this is your first Flutter project:
 
