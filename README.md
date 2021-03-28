@@ -18,7 +18,7 @@ pessoa saúdavel entre a origem e o destino terá um nível a mais de segurança
 a apróximação de trechos mais críticos serão préviamente notificados e esta informação
 poderá reforçar a vigilância quanto aos critérios definidos pela OMS (Organização Mundial de Saúde).
 
-# QUAIS OS COMPONENTES DO APP
+## QUAIS OS COMPONENTES DO APP
 - Painel de login e senha
 - Painel de cadastro de informações
 - Painel de mapas
