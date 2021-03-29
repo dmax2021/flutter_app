@@ -10,7 +10,7 @@ pessoas que testaram positivo para o covid19 residem.
 
 ## FLUXOGRAMA APP
 
-❮img src="images/APP_corra_do_corona.png"❯
+
 
 ## COMO FUNCIONA O APP
 Para que estas rotas sejam estabelecidas, as pessoas que testarem positivo para o
