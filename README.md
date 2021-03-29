@@ -9,8 +9,7 @@ as rotas mais seguras com base na ausência ou menor incidencia de locais onde
 pessoas que testaram positivo para o covid19 residem.
 
 ## FLUXOGRAMA APP
-
-❮img src="images/APP_corra_do_corona.png"❯
+![APP_corra_do_corona](https://user-images.githubusercontent.com/81516919/112786507-c996dc00-902c-11eb-80ec-542e30ccb454.png)
 
 ## COMO FUNCIONA O APP
 Para que estas rotas sejam estabelecidas, as pessoas que testarem positivo para o
