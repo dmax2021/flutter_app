@@ -12,6 +12,7 @@ pessoas que testaram positivo para o covid19 residem.
 ![APP_corra_do_corona](https://user-images.githubusercontent.com/81516919/112786507-c996dc00-902c-11eb-80ec-542e30ccb454.png)
 
 ##  APP JANELAS
+![APP_Moc1](https://user-images.githubusercontent.com/81516919/113525786-483fcc00-958d-11eb-9825-5294f1ccf1a8.png)
 
 
 ## COMO FUNCIONA O APP
