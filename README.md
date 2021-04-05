@@ -11,6 +11,10 @@ pessoas que testaram positivo para o covid19 residem.
 ## FLUXOGRAMA APP
 ![APP_corra_do_corona](https://user-images.githubusercontent.com/81516919/112786507-c996dc00-902c-11eb-80ec-542e30ccb454.png)
 
+##  APP JANELAS
+![APP_Moc1](https://user-images.githubusercontent.com/81516919/113525786-483fcc00-958d-11eb-9825-5294f1ccf1a8.png)
+![APP_Moc2](https://user-images.githubusercontent.com/81516919/113525966-4fb3a500-958e-11eb-8864-e2b78094cada.png)
+
 ## COMO FUNCIONA O APP
 Para que estas rotas sejam estabelecidas, as pessoas que testarem positivo para o
 covid19 preencherão espontaneamente um formulário, e com base nas informações prestadas
