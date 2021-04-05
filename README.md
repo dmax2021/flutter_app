@@ -39,3 +39,4 @@ https://github.com/dmax2021/flutter_app.git
 ## AJUDA
 Para maiores informações por favor entrar em contato através do endereço de correio eletrônico:
 edsondinhomais@gmail.com
+![APP_corra_do_corona](https://user-images.githubusercontent.com/81516919/113637831-eabe8480-964b-11eb-8c01-1f569db79dcf.png)
