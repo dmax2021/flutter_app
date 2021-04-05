@@ -3,8 +3,9 @@
 Projeto Disciplina PGIA 7310 - Fundamentos de Informática Aplicada UFRPE
 
 ## SOBRE O APP
+![Logo_corra_do_corona](https://user-images.githubusercontent.com/81516919/113529445-d4f08700-9599-11eb-92a4-e746e900c005.png)
 
-Este aplicativo de utilidade pública tem o objetivo de informar a população quais,
+Este aplicativo de utilidade pública tem o objetivo de informar a população quais
 as rotas mais seguras com base na ausência ou menor incidencia de locais onde
 pessoas que testaram positivo para o covid19 residem.
 
