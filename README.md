@@ -3,7 +3,7 @@
 Projeto Disciplina PGIA 7310 - Fundamentos de Informática Aplicada UFRPE
 
 ## LOGO APP
-![Logo_corra_do_corona.png](assets\imagens\Logo_corra_do_corona2.png)
+![Logo_corra_do_corona](https://user-images.githubusercontent.com/81516919/113529445-d4f08700-9599-11eb-92a4-e746e900c005.png)
 
 ## SOBRE O APP
 Este aplicativo de utilidade pública tem o objetivo de informar a população quais
