@@ -3,7 +3,7 @@
 Projeto Disciplina PGIA 7310 - Fundamentos de Informática Aplicada UFRPE
 
 ## LOGO APP
-![Logo_corra_do_corona.png](assets\imagens\Logo_corra_do_corona2.png)
+![Logo_corra_do_corona](https://user-images.githubusercontent.com/81516919/113529445-d4f08700-9599-11eb-92a4-e746e900c005.png)
 
 ## SOBRE O APP
 Este aplicativo de utilidade pública tem o objetivo de informar a população quais
@@ -11,7 +11,8 @@ as rotas mais seguras com base na ausência ou menor incidencia de locais onde
 pessoas que testaram positivo para o covid19 residem.
 
 ## FLUXOGRAMA APP
-![APP_corra_do_corona](assets\imagens\Logo_corra_do_corona.png)
+![APP_corra_do_corona](https://user-images.githubusercontent.com/81516919/112786507-c996dc00-902c-11eb-80ec-542e30ccb454.png)
+
 
 ##  APP JANELAS
 ![APP_Moc1](https://user-images.githubusercontent.com/81516919/113525786-483fcc00-958d-11eb-9825-5294f1ccf1a8.png)
